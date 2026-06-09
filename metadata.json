@@ -1,0 +1,6 @@
+{
+  "name": "Mekus",
+  "description": "An exquisite premium fine dining culinary and heritage sanctuary in Dutse, where the stillness of the forest meets the passion of the flame.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
